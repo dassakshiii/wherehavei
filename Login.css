@@ -1,0 +1,302 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1079px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Group_4 {
+	position: absolute;
+	width: 1962px;
+	height: 1079px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_10 {
+	fill: rgba(255,227,227,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1079px;
+	left: 0px;
+	top: 0px;
+}
+#Group_3 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 562px;
+	height: 1079px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_9 {
+	fill: rgba(255,93,93,1);
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 372px;
+	height: 1079px;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_1 {
+	fill: rgba(255,93,93,1);
+}
+.Polygon_1 {
+	overflow: visible;
+	position: absolute;
+	width: 380px;
+	height: 1079px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,182,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Group_5 {
+	position: absolute;
+	width: 511px;
+	height: 296px;
+	left: 1169px;
+	top: 438px;
+	overflow: visible;
+}
+#Email {
+	position: absolute;
+	width: 511px;
+	height: 137px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_599 {
+	fill: rgba(241,249,255,1);
+	stroke: rgba(255,93,93,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+	width: 500px;
+	height: 70px;
+	border: 3px solid red;
+	border-radius: 15px;
+	color: black;
+	font-size: 30px;
+}
+.Rectangle_599 {
+	position: absolute;
+	overflow: visible;
+	width: 511px;
+	height: 65px;
+	left: 0px;
+	top: 72px;
+}
+#E-mail {
+	left: 15px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 52px;
+	color: rgba(146,63,65,1);
+}
+#Password {
+	position: absolute;
+	width: 511px;
+	height: 136px;
+	left: 0px;
+	top: 160px;
+	overflow: visible;
+}
+#Rectangle_600 {
+	fill: rgba(241,249,255,1);
+	stroke: rgba(255,93,93,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_600 {
+	position: absolute;
+	overflow: visible;
+	width: 511px;
+	height: 65px;
+	left: 0px;
+	top: 71px;
+}
+#Password_r {
+	left: 20px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 247px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 52px;
+	color: rgba(146,63,65,1);
+}
+#Group_4_s {
+	position: absolute;
+	width: 609px;
+	height: 547px;
+	left: 127px;
+	top: 205px;
+	overflow: visible;
+}
+#Ellipse_1 {
+	fill: rgba(146,63,65,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 609px;
+	height: 547px;
+	left: 0px;
+	top: 0px;
+}
+#My_Gallery {
+	left: 42px;
+	top: 222px;
+	position: absolute;
+	overflow: visible;
+	width: 527px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 103px;
+	color: rgba(255,227,227,1);
+}
+#Where_did_I_hear_this_song {
+	left: 494px;
+	top: 100px;
+	position: absolute;
+	overflow: visible;
+	width: 1469px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Sitka Banner;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 116px;
+	color: rgba(255,93,93,1);
+}
+#Login_to_see_all_your_favourit {
+	left: 772px;
+	top: 259px;
+	position: absolute;
+	overflow: visible;
+	width: 1087px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 51px;
+	color: rgba(255,93,93,1);
+}
+#Group_6 {
+	position: absolute;
+	width: 280px;
+	height: 90px;
+	left: 1285px;
+	top: 777px;
+	overflow: visible;
+}
+#button {
+	position: absolute;
+	width: 280px;
+	height: 90px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_715 {
+	fill: rgba(146,63,65,1);
+}
+.Rectangle_715 {
+	position: absolute;
+	overflow: visible;
+	width: 280px;
+	height: 90px;
+	left: 0px;
+	top: 0px;
+}
+#Submit {
+	left: 44px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 57px;
+	color: rgba(255,227,227,1);
+}
+#Not_a_user_Sign_Up {
+	left: 1498px;
+	top: 910px;
+	position: absolute;
+	overflow: visible;
+	width: 365px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 43px;
+	color: rgba(255,93,93,1);
+}
